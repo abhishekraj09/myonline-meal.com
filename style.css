@@ -123,9 +123,10 @@
     display: block;
 }
 
-/* client section */
-#client-section{
-    height: 344px;
+/*client-section*/
+
+#clients-section{
+    position: relative;
 }
 
 #clients{
@@ -135,9 +136,9 @@
 }
 
 #clients img{
-    height: 500px;
+    height: 124px;
 }
-    
+
 
 /* Utility classes*/
 .h-primary{
@@ -167,8 +168,3 @@
     text-align: center;
 }
 
-
-
-
-
-   
